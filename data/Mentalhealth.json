@@ -1,0 +1,385 @@
+{
+    "dataset": [
+        {
+            "question": "Hi",
+            "answer": "Hello! How can I assist you today?"
+        },
+        {
+            "question": "Hello",
+            "answer": "Hi there! How are you feeling today?"
+        },
+        {
+            "question": "Hey",
+            "answer": "Hey! I’m here to help. What’s on your mind?"
+        },
+        {
+            "question": "Good morning",
+            "answer": "Good morning! Hope you have a great day ahead. How can I support you?"
+        },
+        {
+            "question": "Good evening",
+            "answer": "Good evening! How has your day been?"
+        },
+        {
+            "question": "What is your work?",
+            "answer": "I am LIEXA L1, an AI-powered chatbot designed to assist with mental health-related queries. I provide guidance on stress, anxiety, depression, self-improvement, and more."
+        },
+        {
+            "question": "Who created you?",
+            "answer": "I was developed as part of Freudia India Pvt. Ltd.'s initiative to provide mental health support through AI-driven solutions."
+        },
+        {
+            "question": "How can you help me?",
+            "answer": "I can provide information on mental health, coping strategies, relaxation techniques, and motivation. If needed, I can also guide you toward professional help."
+        },
+        {
+            "question": "Are you a human?",
+            "answer": "No, I am an AI chatbot designed to assist you with mental health support. However, I strive to provide empathetic and helpful responses."
+        },
+        {
+            "question": "Can I trust your advice?",
+            "answer": "My responses are based on verified mental health research and expert guidance. However, I am not a substitute for professional therapy or medical advice."
+        },
+        {
+            "question": "How can I stay motivated?",
+            "answer": "Set small, achievable goals, celebrate your progress, surround yourself with positive influences, and practice self-care. Developing a routine and reminding yourself why you started can also help."
+        },
+        {
+            "question": "What are some daily habits for good mental health?",
+            "answer": "Practice gratitude, stay physically active, eat well, get enough sleep, engage in hobbies, and connect with loved ones regularly."
+        },
+        {
+            "question": "How can I stop overthinking?",
+            "answer": "Try mindfulness exercises, challenge negative thoughts, focus on the present, and set time limits for decision-making. Engaging in activities you enjoy can also help."
+        },
+        {
+            "question": "What is Freudia India Pvt. Ltd.?",
+            "answer": "Freudia India Pvt. Ltd. is a company dedicated to improving mental health awareness and providing AI-driven solutions like LIEXA L1 to help individuals manage their mental well-being."
+        },
+        {
+            "question": "What updates does Freudia India Pvt. Ltd. have?",
+            "answer": "Freudia India Pvt. Ltd. continuously updates LIEXA L1 with new mental health insights, AI-driven recommendations, and collaborations with mental health professionals to enhance user support."
+        },
+        {
+            "question": "What are the symptoms of depression?",
+            "answer": "Depression symptoms include persistent sadness, loss of interest in activities, changes in appetite and sleep, fatigue, difficulty concentrating, feelings of hopelessness, and sometimes thoughts of self-harm or suicide. If you are experiencing these symptoms, consider seeking professional help."
+        },
+        {
+            "question": "How can I manage anxiety?",
+            "answer": "Managing anxiety involves techniques such as deep breathing, mindfulness, regular exercise, a balanced diet, and maintaining a structured routine. Cognitive Behavioral Therapy (CBT) and medication may also be beneficial in some cases."
+        },
+        {
+            "question": "What is Cognitive Behavioral Therapy (CBT)?",
+            "answer": "CBT is a form of psychotherapy that helps individuals identify and change negative thought patterns and behaviors. It is commonly used to treat anxiety, depression, and other mental health conditions."
+        },
+        {
+            "question": "How can I help someone who is feeling suicidal?",
+            "answer": "If someone is feeling suicidal, listen to them without judgment, encourage them to seek professional help, and ensure they are not left alone. Contact a crisis helpline or emergency services if necessary."
+        },
+        {
+            "question": "What are some relaxation techniques for stress relief?",
+            "answer": "Relaxation techniques include deep breathing exercises, progressive muscle relaxation, guided imagery, yoga, and meditation. Engaging in hobbies and socializing can also help reduce stress."
+        },
+        {
+            "question": "What are the side effects of antidepressants?",
+            "answer": "Common side effects of antidepressants include nausea, weight gain, drowsiness, dry mouth, and sexual dysfunction. However, effects vary by medication and individual. Consult a doctor for personalized advice."
+        },
+        {
+            "question": "How does sleep affect mental health?",
+            "answer": "Poor sleep can contribute to anxiety, depression, and cognitive impairments. Maintaining a consistent sleep schedule, reducing screen time before bed, and managing stress can improve sleep quality."
+        },
+        {
+            "question": "What should I do if I have a panic attack?",
+            "answer": "During a panic attack, focus on deep breathing, remind yourself that it will pass, use grounding techniques, and find a calm environment. Long-term strategies include therapy and relaxation exercises."
+        },
+        {
+            "question": "Can exercise improve mental health?",
+            "answer": "Yes, regular physical activity releases endorphins, reduces stress hormones, and improves overall mood. Activities such as walking, jogging, yoga, and strength training can be beneficial."
+        },
+        {
+            "question": "What is the difference between stress and anxiety?",
+            "answer": "Stress is a response to an external cause and usually subsides once the situation is resolved. Anxiety is an ongoing condition characterized by excessive worry and fear, often without an immediate cause."
+        },
+        {
+            "question": "I've been feeling very anxious lately and can't seem to relax. What should I do?",
+            "answer": "It's common to experience anxiety. Some immediate coping strategies include: deep breathing exercises, regular physical activity, maintaining a consistent sleep schedule, and limiting caffeine intake. If your anxiety persists or interferes with daily life, consider speaking with a mental health professional who can provide personalized strategies and support."
+        },
+        {
+            "question": "How can I tell if my anxiety is normal or if I need professional help?",
+            "answer": "While everyone experiences anxiety occasionally, consider seeking professional help if: your anxiety interferes with daily activities, you experience panic attacks, you avoid situations due to anxiety, or your anxiety persists for several weeks. A mental health professional can properly assess your situation and provide appropriate treatment options."
+        },
+        {
+            "question": "What are some physical symptoms of anxiety that I should be aware of?",
+            "answer": "Common physical symptoms of anxiety include: rapid heartbeat, sweating, trembling, shortness of breath, chest tightness, nausea, dizziness, muscle tension, and fatigue. While these symptoms can be alarming, they are typical anxiety responses. However, it's always good to get checked by a healthcare provider to rule out other conditions."
+        },
+        {
+            "question": "Are there specific foods or drinks I should avoid if I have anxiety?",
+            "answer": "Yes, certain substances can worsen anxiety. Consider limiting or avoiding: caffeine (coffee, energy drinks, some teas), alcohol, sugary foods, processed foods, and artificial sweeteners. Instead, focus on eating a balanced diet rich in whole grains, lean proteins, fruits, vegetables, and foods high in omega-3 fatty acids. Stay hydrated with water and herbal teas."
+        },
+        {
+            "question": "I've been feeling sad and unmotivated for weeks. Could this be depression?",
+            "answer": "Persistent feelings of sadness and lack of motivation lasting more than two weeks can be signs of depression. Other symptoms might include changes in sleep patterns, appetite changes, difficulty concentrating, and loss of interest in activities you once enjoyed. It's important to consult with a mental health professional for a proper evaluation and support."
+        },
+        {
+            "question": "What are some ways to cope with depression naturally?",
+            "answer": "While professional help is important for managing depression, some natural coping strategies include: establishing a regular exercise routine, maintaining a consistent sleep schedule, spending time in nature, connecting with supportive friends or family, and practicing mindfulness. Remember, these strategies work best alongside professional treatment when needed."
+        },
+        {
+            "question": "How can I help myself when depression makes it hard to get out of bed?",
+            "answer": "Start with small, manageable steps: begin with simple tasks like sitting up in bed, then gradually progress to standing, walking to the bathroom, etc. Set tiny goals for the day, celebrate small victories, and be gentle with yourself. Try the '5-minute rule' - commit to doing something for just 5 minutes, knowing you can stop after. Often, starting is the hardest part."
+        },
+        {
+            "question": "What's the difference between depression and just feeling sad?",
+            "answer": "While sadness is a normal emotion that typically passes with time, depression is more persistent and affects multiple aspects of life. Depression often includes feelings of hopelessness, worthlessness, loss of interest in activities, changes in sleep and appetite, difficulty concentrating, and sometimes thoughts of death. Sadness usually has a specific trigger and resolves, while depression can occur without clear causes and lasts longer."
+        },
+        {
+            "question": "What are effective ways to manage work-related stress?",
+            "answer": "To manage work-related stress, try: setting clear boundaries between work and personal life, taking regular breaks, practicing time management, using relaxation techniques like meditation, and maintaining open communication with supervisors about workload. If stress becomes overwhelming, consider speaking with a mental health professional or career counselor."
+        },
+        {
+            "question": "How can I tell if I'm experiencing burnout?",
+            "answer": "Common signs of burnout include: feeling exhausted despite adequate rest, becoming cynical or detached from work, decreased productivity, feeling overwhelmed by tasks that used to be manageable, and physical symptoms like headaches or insomnia. If you're experiencing these symptoms, it's important to address them early through stress management techniques and possibly professional support."
+        },
+        {
+            "question": "What are some quick stress relief techniques I can use during the day?",
+            "answer": "Try these quick stress-relief techniques: 1) Box breathing (inhale 4 counts, hold 4, exhale 4, hold 4), 2) Progressive muscle relaxation (tense and relax each muscle group), 3) 5-4-3-2-1 grounding exercise (name 5 things you see, 4 you feel, 3 you hear, 2 you smell, 1 you taste), 4) Quick walk or stretch break, 5) Listen to calming music for a few minutes."
+        },
+        {
+            "question": "How does chronic stress affect physical health?",
+            "answer": "Chronic stress can have significant physical effects including: weakened immune system, increased risk of heart disease, digestive problems, headaches, muscle tension, high blood pressure, sleep issues, and hormonal imbalances. It can also contribute to weight gain, skin problems, and reduced energy levels. Managing stress through healthy coping mechanisms is crucial for both mental and physical well-being."
+        },
+        {
+            "question": "I'm having trouble falling asleep at night. What can I do?",
+            "answer": "Good sleep hygiene practices include: maintaining a consistent sleep schedule, creating a relaxing bedtime routine, avoiding screens before bed, keeping your bedroom cool and dark, limiting caffeine and alcohol, and regular exercise (but not too close to bedtime). If sleep problems persist, consult a healthcare provider as they might indicate an underlying sleep disorder."
+        },
+        {
+            "question": "How much sleep do I really need?",
+            "answer": "Most adults need 7-9 hours of sleep per night for optimal functioning. However, individual needs may vary. Quality of sleep is as important as quantity. If you're consistently getting enough hours but still feel tired, or if you're having trouble sleeping, consider consulting a sleep specialist."
+        },
+        {
+            "question": "What's the best way to reset my sleep schedule if it's completely off track?",
+            "answer": "To reset your sleep schedule: 1) Choose a consistent wake-up time and stick to it, even on weekends, 2) Expose yourself to bright light in the morning, 3) Gradually adjust your bedtime by 15-minute increments each night, 4) Avoid naps longer than 20 minutes, 5) Create a calming bedtime routine, 6) Avoid screens 1-2 hours before bed. Be patient - it may take 1-2 weeks to fully adjust."
+        },
+        {
+            "question": "Can certain foods help with better sleep?",
+            "answer": "Yes, some foods can promote better sleep: 1) Foods rich in tryptophan like turkey, chicken, milk, and nuts, 2) Complex carbohydrates like whole grains, 3) Foods containing magnesium like bananas and almonds, 4) Cherries, which naturally contain melatonin. Avoid large meals close to bedtime, and limit caffeine, alcohol, and spicy foods which can disrupt sleep."
+        },
+        {
+            "question": "How can I support a loved one who's struggling with mental health issues?",
+            "answer": "To support someone with mental health issues: listen without judgment, avoid giving unsolicited advice, encourage them to seek professional help, learn about their condition, be patient, and maintain boundaries for your own well-being. Remember that you can't force someone to get help, but you can show them you care and support their journey to wellness."
+        },
+        {
+            "question": "How do I know if my relationship is affecting my mental health?",
+            "answer": "Signs that a relationship may be affecting your mental health include: increased anxiety or depression symptoms, feeling drained after interactions, compromising your values or boundaries, isolation from other relationships, or experiencing physical symptoms of stress. Consider speaking with a mental health professional who can help you evaluate the relationship's impact and develop healthy coping strategies."
+        },
+        {
+            "question": "How do I set boundaries with family members who don't understand mental health?",
+            "answer": "Start by: 1) Being clear and direct about your needs, 2) Using 'I' statements to express your feelings, 3) Preparing simple explanations about mental health that they might understand, 4) Setting specific limits on discussions or behaviors that are harmful, 5) Having resources ready to share if they're interested in learning more. Remember, you don't owe anyone detailed explanations about your mental health."
+        },
+        {
+            "question": "How can I maintain healthy relationships while dealing with my own mental health challenges?",
+            "answer": "Balance is key: 1) Communicate openly with loved ones about your needs and limitations, 2) Be honest about when you need space or support, 3) Maintain regular check-ins with friends and family, even if brief, 4) Set realistic expectations for social interactions, 5) Practice self-care to ensure you have energy for relationships, 6) Consider couples or family therapy if needed to improve communication."
+        },
+        {
+            "question": "What are some effective self-care practices for mental health?",
+            "answer": "Effective self-care practices include: maintaining a balanced diet, regular exercise, adequate sleep, setting boundaries, practicing mindfulness or meditation, engaging in hobbies, spending time in nature, and staying connected with supportive people. Remember that self-care isn't selfish - it's essential for maintaining good mental health."
+        },
+        {
+            "question": "How can I build a daily self-care routine?",
+            "answer": "Start small and be consistent: begin with 5-10 minutes of meditation or deep breathing in the morning, take short breaks during the day for stretching or walking, maintain regular meal times, set aside time for activities you enjoy, and establish a relaxing bedtime routine. Gradually add more practices as these become habits."
+        },
+        {
+            "question": "How do I practice self-care when I'm too busy or overwhelmed?",
+            "answer": "For busy schedules, try: 1) Mini-breaks (2-minute breathing exercises, quick stretches), 2) Combining self-care with daily tasks (mindful walking during commute, gratitude practice during morning coffee), 3) Setting boundaries with work/commitments, 4) Breaking self-care into smaller, manageable chunks, 5) Prioritizing essential care (sleep, nutrition, basic hygiene) when time is limited."
+        },
+        {
+            "question": "What are some free or low-cost self-care activities?",
+            "answer": "Many effective self-care activities are free: 1) Nature walks or outdoor exercise, 2) Journaling or creative writing, 3) Free meditation apps or YouTube videos, 4) Creating art or doing crafts with materials you have, 5) Reading books from the library, 6) Phone calls with supportive friends, 7) Free online yoga or exercise videos, 8) Practicing gratitude or mindfulness, 9) Taking relaxing baths or doing home spa treatments."
+        },
+        {
+            "question": "I'm having thoughts of self-harm. What should I do?",
+            "answer": "If you're having thoughts of self-harm, please know that help is available 24/7. Contact emergency services immediately, call a suicide prevention hotline (988 in the US), or go to the nearest emergency room. You can also reach out to a trusted friend, family member, or mental health professional. Your life has value, and there are people who want to help."
+        },
+        {
+            "question": "How do I know if I'm experiencing a mental health crisis?",
+            "answer": "Signs of a mental health crisis include: thoughts of self-harm or suicide, inability to perform daily tasks, severe mood swings, paranoia, hearing or seeing things others don't, or feeling completely overwhelmed and hopeless. If you're experiencing any of these symptoms, seek immediate professional help through emergency services or crisis hotlines."
+        },
+        {
+            "question": "What should I do if someone tells me they're thinking about suicide?",
+            "answer": "Take all mentions of suicide seriously: 1) Stay calm and listen without judgment, 2) Don't leave them alone, 3) Remove any means of self-harm if possible, 4) Call emergency services or a suicide prevention hotline immediately, 5) Help them connect with professional help, 6) Follow up and continue showing support. Remember, you're not responsible for their actions, but you can help them get professional support."
+        },
+        {
+            "question": "How can I create a crisis plan for my mental health?",
+            "answer": "A crisis plan should include: 1) Emergency contact numbers (therapist, crisis hotline, trusted friends/family), 2) List of warning signs that indicate you're heading toward crisis, 3) Coping strategies that work for you, 4) Medications and dosages, 5) Reasons to live/things to look forward to, 6) Safe places you can go, 7) Things others can do to help, 8) What to avoid during crisis. Share this plan with trusted supporters and keep it easily accessible."
+        },
+        {
+            "question": "How do I cope with a breakup?",
+            "answer": "Coping with a breakup involves allowing yourself to grieve, surrounding yourself with supportive friends and family, engaging in self-care activities, and focusing on personal growth. Avoiding contact with your ex initially and setting new goals can also help in the healing process."
+        },
+        {
+            "question": "How can I deal with relationship stress?",
+            "answer": "Healthy communication, setting boundaries, and expressing your feelings openly are key to managing relationship stress. Practicing empathy and seeking couples counseling if needed can also improve relationships."
+        },
+        {
+            "question": "How do I handle academic stress?",
+            "answer": "Managing academic stress involves time management, setting realistic goals, taking breaks, staying organized, and seeking help when needed. Engaging in physical activity and maintaining a healthy diet can also support mental well-being."
+        },
+        {
+            "question": "What are some ways to overcome loneliness?",
+            "answer": "Building meaningful relationships, engaging in hobbies, joining social groups, and practicing self-love can help overcome loneliness. Seeking therapy can also be beneficial for deeper emotional struggles."
+        },
+        {
+            "question": "How can I develop a positive mindset?",
+            "answer": "Practicing gratitude, focusing on solutions rather than problems, surrounding yourself with positive influences, and engaging in mindfulness exercises can help develop a positive mindset."
+        },
+        {
+            "question": "What are the signs of burnout?",
+            "answer": "Burnout signs include chronic fatigue, irritability, lack of motivation, difficulty concentrating, and feelings of detachment. Taking breaks, setting boundaries, and seeking support can help."
+        },
+        {
+            "question": "How can I improve self-esteem?",
+            "answer": "Improving self-esteem involves practicing self-compassion, setting achievable goals, surrounding yourself with supportive people, and engaging in activities that build confidence."
+        },
+        {
+            "question": "What should I do if I feel overwhelmed by life?",
+            "answer": "Take a step back, break tasks into smaller steps, seek support from loved ones, and practice relaxation techniques. Therapy and counseling can provide further guidance."
+        },
+        {
+            "question": "How do I deal with workplace stress?",
+            "answer": "Managing workplace stress involves setting boundaries, prioritizing tasks, taking breaks, practicing mindfulness, and seeking support when necessary."
+        },
+        {
+            "question": "How can I stop overthinking?",
+            "answer": "To stop overthinking, focus on the present moment, engage in deep breathing, challenge negative thoughts, and distract yourself with productive activities."
+        },
+        {
+            "question": "How can I motivate myself when I feel low?",
+            "answer": "Self-motivation can be boosted by setting small achievable goals, practicing positive affirmations, focusing on past successes, engaging in physical activity, and surrounding yourself with supportive people. Taking breaks and engaging in self-care also help maintain motivation."
+        },
+        {
+            "question": "What are some daily habits to improve mental well-being?",
+            "answer": "Daily habits for better mental health include maintaining a routine, practicing gratitude, engaging in physical activity, meditating, journaling, and fostering positive social connections."
+        },
+        {
+            "question": "How do I overcome negative thinking?",
+            "answer": "Overcoming negative thinking involves challenging unhelpful thoughts, reframing perspectives, practicing mindfulness, and surrounding yourself with positive influences. Therapy can also help develop cognitive restructuring techniques."
+        },
+        {
+            "question": "What is LIEXA L1?",
+            "answer": "LIEXA L1 is an AI-powered chatbot designed to assist users with mental health-related queries. It provides information on stress management, anxiety, depression, relationships, and self-improvement techniques."
+        },
+        {
+            "question": "What is Freudia India Pvt. Ltd.?",
+            "answer": "Freudia India Pvt. Ltd. is a company dedicated to improving mental health awareness and providing AI-driven solutions like LIEXA L1 to help individuals manage their mental well-being."
+        },
+        {
+            "question": "How can LIEXA L1 help with my mental health?",
+            "answer": "LIEXA L1 offers guidance on mental health topics, relaxation techniques, self-help strategies, and connects users to professional resources if needed."
+        },
+        {
+            "question": "Is LIEXA L1 a substitute for therapy?",
+            "answer": "No, LIEXA L1 is an AI-powered assistant meant to provide mental health insights and self-care techniques. It is not a substitute for professional medical advice, diagnosis, or therapy."
+        },
+        {
+            "question": "What updates does Freudia India Pvt. Ltd. have?",
+            "answer": "Freudia India Pvt. Ltd. continuously updates LIEXA L1 with new mental health insights, AI-driven recommendations, and collaborations with mental health professionals to enhance user support."
+        },
+        {
+          "question": "How can I help my child manage stress?",
+          "answer": "Encourage open communication, help them establish a routine, teach relaxation techniques, and support them in engaging in activities they enjoy. Ensuring a balanced lifestyle with proper sleep and nutrition is also key."
+        },
+        {
+          "question": "How do I handle conflicts with my family?",
+          "answer": "Effective communication, active listening, and setting healthy boundaries can help resolve family conflicts. Seeking family counseling may also be beneficial for deeper issues."
+        },
+        {
+          "question": "How can I support a friend dealing with depression?",
+          "answer": "Listen without judgment, encourage them to seek professional help, check in on them regularly, and offer emotional support. Avoid minimizing their feelings."
+        },
+        {
+          "question": "What should I do if my partner is struggling with anxiety?",
+          "answer": "Be patient, offer reassurance, help them practice relaxation techniques, and encourage professional support. Avoid pressuring them to ‘just calm down.’"
+        },
+        {
+          "question": "How can I rebuild trust after a relationship conflict?",
+          "answer": "Honest communication, taking responsibility, showing consistency in actions, and giving each other time to heal can help rebuild trust."
+        },
+        {
+          "question": "How do I cope with losing a loved one?",
+          "answer": "Allow yourself to grieve, seek support from loved ones or a therapist, honor the person’s memory in a meaningful way, and give yourself time to heal."
+        },
+        {
+          "question": "How can I manage loneliness after a breakup?",
+          "answer": "Focus on self-care, reconnect with friends and family, engage in activities you enjoy, and remind yourself that healing takes time."
+        },
+        {
+          "question": "How do I balance friendships and mental well-being?",
+          "answer": "Set boundaries, communicate openly, spend time with supportive friends, and take time for self-care. Recognizing when a friendship is causing stress is important too."
+        },
+        {
+          "question": "How can I improve my self-confidence?",
+          "answer": "Practice self-affirmations, set and achieve small goals, avoid self-comparison, and surround yourself with supportive people."
+        },
+        {
+          "question": "What should I do if I feel overwhelmed with life?",
+          "answer": "Break tasks into smaller steps, focus on what you can control, seek support from friends or professionals, and practice deep breathing."
+        },
+        {
+          "question": "How can I support my elderly parents' mental health?",
+          "answer": "Spend quality time with them, encourage social interactions, ensure they have hobbies, and check in on their emotional well-being regularly."
+        },
+        {
+          "question": "What are healthy coping mechanisms for anxiety?",
+          "answer": "Deep breathing, meditation, regular exercise, maintaining a routine, and seeking professional help are all effective coping strategies."
+        },
+        {
+          "question": "How do I make new friends when I feel socially anxious?",
+          "answer": "Start small, engage in shared activities, practice active listening, and remind yourself that connections take time to build."
+        },
+        {
+          "question": "How can I improve my sleep quality?",
+          "answer": "Maintain a consistent sleep schedule, avoid screens before bed, create a relaxing bedtime routine, and limit caffeine intake."
+        },
+        {
+          "question": "How do I deal with negative thoughts?",
+          "answer": "Challenge them with evidence, replace them with positive affirmations, and practice mindfulness to focus on the present moment."
+        },
+        {
+          "question": "What is Freudia India Pvt. Ltd.?",
+          "answer": "Freudia India Pvt. Ltd. is a company dedicated to improving mental health awareness and providing AI-driven solutions like LIEXA L1 to help individuals manage their mental well-being."
+        },
+        {
+          "question": "What updates does Freudia India Pvt. Ltd. have?",
+          "answer": "Freudia India Pvt. Ltd. continuously updates LIEXA L1 with new mental health insights, AI-driven recommendations, and collaborations with mental health professionals to enhance user support."
+        },
+        {
+          "question": "How do I handle conflicts with family members?",
+          "answer": "Practice active listening, express your feelings calmly, and try to understand their perspective. Setting boundaries can also help."
+        },
+        {
+          "question": "How can I help a friend who is feeling depressed?",
+          "answer": "Listen without judgment, offer support, and encourage them to seek professional help if needed. Being there for them matters."
+        },
+        {
+          "question": "What are healthy ways to cope with loneliness?",
+          "answer": "Engage in social activities, develop hobbies, connect with loved ones, and consider joining community groups."
+        },
+        {
+          "question": "How do I overcome social anxiety?",
+          "answer": "Practice exposure in small steps, challenge negative thoughts, and consider therapy or support groups."
+        },
+        {
+          "question": "What should I do if I feel like I have no purpose?",
+          "answer": "Explore your interests, set meaningful goals, volunteer, and talk to a counselor to help find clarity."
+        },
+        {
+          "question": "How do I manage anger issues?",
+          "answer": "Practice deep breathing, identify triggers, express feelings calmly, and use relaxation techniques like meditation."
+        },
+        {
+          "question": "I have a question that is not listed here.",
+          "answer": "I appreciate your question! I may not have the answer right now, but I recommend speaking to a mental health professional or trusted individual for guidance."
+        }
+    ]
+  }
+  
